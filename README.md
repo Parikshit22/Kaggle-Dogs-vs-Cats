@@ -1,3 +1,3 @@
 # Kaggle-Dogs-vs-Cats
 Used Keras Library.
-dataset can be find on Kaggle site.
+Dataset can be found on Kaggle site.
